@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Valentine (@LovecMaslin);
+- 👋 Hi, I’m Valentine ;
 - 👀 I’m interested in frontend developing(JS React);
 - 🌱 I’m currently learning JS and React;
 - 📫 How to reach me: psp32@ukr.net;
